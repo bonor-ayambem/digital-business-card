@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+h1, h2, h3, h4, p {
+  padding: 0;
+  margin: 5px;
+  color: lightpink;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -12,10 +19,24 @@
   background-color:rgb(19, 55, 19);
   margin-top: 10vh;
   border-radius: 30px;
+  box-sizing: border-box;
+  padding: 0px;
 }
 
 .profile-pic {
   width: 70%;
   height: 50%;
   border-radius: 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+}
+
+.text-content {
+  margin-left: 0;
+  padding: 0px;
 }
