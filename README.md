@@ -1,6 +1,6 @@
 # Digital Business Card Using React JSX
 
-![Deployment](./public/deployment.png)
+![Deployment](./public/images/deployment.png)
 
 
 # Getting Started with Create React App

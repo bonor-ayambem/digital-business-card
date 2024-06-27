@@ -1,8 +1,8 @@
-import pic from './profile-pic.jpg'
-import envelope from './envelope-icon.png'
-import ghLogo from './github-logo.png'
-import instaLogo from './instagram-logo.png'
-import linkedin from './linkedin-icon.png'
+import pic from './images/profile-pic.jpg'
+import envelope from './images/envelope-icon.png'
+import ghLogo from './images/github-logo.png'
+import instaLogo from './images/instagram-logo.png'
+import linkedin from './images/linkedin-icon.png'
 
 import './App.css';
 
