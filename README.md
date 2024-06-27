@@ -1,6 +1,6 @@
 # Digital Business Card Using React JSX
 
-![Deployment](./public/images/deployment.png)
+Follow this link to view deployed page: [business-card](https://bonor-ayambem.github.io/digital-business-card/)
 
 
 # Getting Started with Create React App
